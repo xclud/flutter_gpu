@@ -1,7 +1,7 @@
 name: gpu
 description: "Game Engine with 3D feaures for Flutter using Impeller."
 version: 0.0.1
-homepage:
+repository: https://github.com/xclud/flutter_gpu
 
 environment:
   sdk: ^3.6.1
